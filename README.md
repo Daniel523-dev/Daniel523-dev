@@ -1,6 +1,6 @@
 # About Me
 
-I am a Python developer focused on cybersecurity. I have been using Python since 2018. Have spent the past few years working in the cybersecurity field.
+I am a Python developer focused on cybersecurity. I have been using Python since 2018 and have spent the past few years working in the cybersecurity field (as a hobby).
 
 # My Philosophy
 
